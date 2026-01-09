@@ -1,9 +1,4 @@
 /**
- * Writtem by Oceane Daumasson - 40275138
- * COMP249
- * Assignment 1, Part II
- * Due October 17
- * 
  * This program creates an array of objects, fills its with different flying objects (planes and UAVs) and displays their information.
  * Then uses the copyFlyingObjects() method to create a new array with the same objects as the previous, and displays it. The goal is to 
  * create a new array with new objects, but this program only creates a shallow copy of each.
