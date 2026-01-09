@@ -1,9 +1,4 @@
 /**
- * Written by Oceane Daumasson - 40275138
- * COMP249
- * Assignment 1, Part I
- * Due October 17
- * 
  * This program creates and displays multiple flying objects from 7 different classes, some inheriting from each other, some in different packages.
  * It creates an array of objects, fills it with different flying objects (planes and UAVs) and displays their information + checks for equality.
  * Then creates a second array (with no UAVs) and displays it. Then finds least and most expensive UAVs in both arrays using a separate method.
